@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/web-tiktok-clone-ui/static/css/main.580210ef.css",
+    "main.js": "/web-tiktok-clone-ui/static/js/main.adedbae7.js",
+    "static/js/453.8f26082f.chunk.js": "/web-tiktok-clone-ui/static/js/453.8f26082f.chunk.js",
+    "static/media/logo.svg": "/web-tiktok-clone-ui/static/media/logo.984de2a6525c2d6771b8353ee10a6248.svg",
+    "static/media/itemFollower.svg": "/web-tiktok-clone-ui/static/media/itemFollower.1ae06134905746025ec3c55197ecac3e.svg",
+    "static/media/itemLive.svg": "/web-tiktok-clone-ui/static/media/itemLive.9f10628baf0d32f376b2a6c842a902e0.svg",
+    "static/media/itemSupport.svg": "/web-tiktok-clone-ui/static/media/itemSupport.3abef0fcb247eec1a9278e8c6c8f5e91.svg",
+    "static/media/itemCreatetor.svg": "/web-tiktok-clone-ui/static/media/itemCreatetor.cdf38f033ec9d7d7498fb56390a02ce4.svg",
+    "static/media/itemLanguage.svg": "/web-tiktok-clone-ui/static/media/itemLanguage.0b38a346053e289c9901cdd20c14aca5.svg",
+    "static/media/itemProfile.svg": "/web-tiktok-clone-ui/static/media/itemProfile.d2017c8a8f0a089fed12ca8169df9580.svg",
+    "static/media/itemHome.svg": "/web-tiktok-clone-ui/static/media/itemHome.704ad023b7f70f2b8acc13314ec4bec1.svg",
+    "index.html": "/web-tiktok-clone-ui/index.html",
+    "static/media/itemMoon.svg": "/web-tiktok-clone-ui/static/media/itemMoon.33dd72df43c2f9f31e322ceb252e9718.svg",
+    "static/media/itemSearch.svg": "/web-tiktok-clone-ui/static/media/itemSearch.a76724ee7c0d1a3c6e9eb34315c5bb7a.svg",
+    "static/media/itemCompa.svg": "/web-tiktok-clone-ui/static/media/itemCompa.95c9a077fb725a02841b1a7fd310475f.svg",
+    "main.580210ef.css.map": "/web-tiktok-clone-ui/static/css/main.580210ef.css.map",
+    "main.adedbae7.js.map": "/web-tiktok-clone-ui/static/js/main.adedbae7.js.map",
+    "453.8f26082f.chunk.js.map": "/web-tiktok-clone-ui/static/js/453.8f26082f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.580210ef.css",
+    "static/js/main.adedbae7.js"
+  ]
+}
