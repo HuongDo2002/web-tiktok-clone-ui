@@ -1,0 +1,59 @@
+.wrapper {
+  min-width: 100px;
+  padding: 9px 16px;
+  border-radius: 4px;
+  font-size: 1.6rem;
+  font-weight: 700;
+  background-color: #ffff;
+}
+
+.small {
+  background-color: rgb(254, 44, 85);
+  color: #ffff;
+
+  &:hover {
+    // background-color: rgba(254, 44, 85,.8);
+    background: linear-gradient(0deg, rgba(0, 0, 0, 0.06), rgba(0, 0, 0, 0.06)), rgb(254, 44, 85);
+  }
+}
+
+.large {
+  height: 48px;
+  width: 100%;
+  border: 1px solid rgb(254, 44, 85);
+  color: rgb(254, 44, 85);
+  line-height: 25px;
+  font-size: 1.8rem;
+
+  &:hover {
+    background-color: rgba(254, 44, 85, 0.06);
+  }
+}
+
+.uploading{
+    color: #333;
+    border: 1px solid rgba(22, 24, 35, 0.12);
+
+    &:hover {
+         background-color: rgba(22, 24, 35, 0.04);
+      }
+}
+
+.rounded{
+    height: 32px;
+    width: 150px;
+    font-size: 14px;
+    padding: 0px 8px;
+    margin-left: 250px;
+    margin-top: 620px;
+    color: rgba(22, 24, 35, 0.48);
+    border-radius: 999px;
+    border: 1px solid rgba(22, 24, 35, 0.12);
+    box-shadow: rgba(0, 0, 0, 0.06) 0px 2px 8px;
+
+    &:hover{
+        cursor: pointer;
+        border: 1px solid rgba(22, 24, 35, 0.2);
+
+    }
+}

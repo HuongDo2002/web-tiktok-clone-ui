@@ -1,0 +1,67 @@
+.wrapper{
+    display: flex;
+    height:720px;
+    max-height: 100%;
+}
+
+.video{
+    position: relative;
+    padding:12px;
+    margin-left: 120px ;
+}
+
+.style-video{
+    width: auto;
+    height: 650px;
+    border-radius: 16px;
+}
+
+.list-icon{
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-left: 520px;
+    margin-top: 280px;
+}
+
+.avatar{
+    width: 48px;
+    height: 48px;
+    border-radius: 50%;
+    position: relative;
+    margin-bottom: 20px;
+    cursor: pointer;
+}
+
+.follow-btn{
+    position: absolute;
+    box-sizing: border-box;
+    width: 15px;
+    height: 15px;
+    background-color: red;
+    border-radius: 50%;
+    color: #fff;
+    margin-top: 42px;
+    cursor: pointer;
+}
+
+.icon-action{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    width: 48px;
+    height: 78px;
+}
+
+.btn{
+    width: 48px;
+    height: 48px;
+    border-radius: 50%;
+    cursor: pointer;
+}
+
+.icon-btn{
+    font-size: 2.2rem;
+}
+
